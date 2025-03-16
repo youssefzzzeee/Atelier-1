@@ -1,0 +1,17 @@
+[
+    { "name": "Ordinateur portable", "price": 5000, "category": "Électronique", "stock": 10 },
+    { "name": "Smartphone", "price": 4000, "category": "Électronique", "stock": 15 },
+    { "name": "Casque audio", "price": 122, "category": "Électronique", "stock": 3 },
+    { "name": "T-shirt", "price": 100, "category": "Vêtements", "stock": 50 },
+    { "name": "Jeans", "price": 500, "category": "Vêtements", "stock": 25 },
+    { "name": "Chaussures de sport", "price": 1, "category": "Chaussures", "stock": 4 },
+    { "name": "Tablette", "price": 5555, "category": "Électronique", "stock": 8 },
+    { "name": "Montre connectée", "price": 120, "category": "Électronique", "stock": 2 },
+    { "name": "Enceinte Bluetooth", "price": 101, "category": "Électronique", "stock": 20 },
+    { "name": "Veste d'hiver", "price": 1010, "category": "Vêtements", "stock": 15 },
+    { "name": "Pantalon", "price": 22, "category": "Vêtements", "stock": 30 },
+    { "name": "Sandales", "price": 333, "category": "Chaussures", "stock": 12 },
+    { "name": "Bottes", "price": 4444, "category": "Chaussures", "stock": 3 },
+    { "name": "Clavier", "price": 59, "category": "Accessoires", "stock": 25 },
+    { "name": "Souris", "price": 279, "category": "Accessoires", "stock": 30 }
+  ]
